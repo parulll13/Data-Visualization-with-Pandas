@@ -8,7 +8,8 @@ This repository contains two Jupyter Notebooks demonstrating key concepts and ap
   📊 *Data Visualization Notebook*  
   This notebook includes various types of static visualizations using:
   - Pandas
-  - Matplotlib 
+  - Matplotlib
+    
   It covers:
   - Bar plots
   - Pie charts
